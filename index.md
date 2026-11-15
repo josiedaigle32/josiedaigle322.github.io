@@ -5,9 +5,9 @@ nav_order: 1
 
 # 👋 Welcome
 
-Hi! I’m **Your Name**, a [short description — e.g. researcher, map designer, etc.].
+Hi! I’m Josephine Daigle, a Geography Masters Student at Temple University.
 
-Use the links on the left (or top, depending on theme) to explore:
+Use the links below to explore
 
 - [About Me](about.md)
 - [Projects](projects.md)
