@@ -1,10 +1,10 @@
 title: Josephine Daigle
 description: Geography | GIS | Urban Planning
-remote_theme: pages-themes/slate
+remote_theme: pages-themes/architect
 
 # Enable GitHub Pages plugin
 plugins:
-  - pages-themes/slate
+  - pages-themes/architect
   
 
 # Set navigation order
