@@ -4,7 +4,7 @@ remote_theme: pages-themes/architect
 
 # Enable GitHub Pages plugin
 plugins:
-  - pages-themes/architect
+  - jekyll-remote-theme
   
 
 # Set navigation order
